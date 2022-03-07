@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Luxe villa in Alicante",
+    "image": "images/img1.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 550000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Villa in Santiago de la Ribera, Costa Cálida, Spanje",
+    "image": "images/img2.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 750000,
+    "type": "townhouse",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 3,
+    "name": "Luxe villa in Alicante",
+    "image": "images/img3.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 450000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 4,
+    "name": "Villa in Santiago de la Ribera, Costa Cálida, Spanje",
+    "image": "images/img4.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 350000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 5,
+    "name": "Luxe villa in Alicante",
+    "image": "images/img3.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 450000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 6,
+    "name": "Villa in Santiago de la Ribera, Costa Cálida, Spanje",
+    "image": "images/img4.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 350000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 7,
+    "name": "Luxe villa in Alicante",
+    "image": "images/img3.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 450000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  },
+  {
+    "id": 8,
+    "name": "Luxe villa in Alicante",
+    "image": "images/img1.png",
+    "location": "Murcia, Costa Cálida, Spanje",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "price": 550000,
+    "type": "villa",
+    "created_at": "04/03/2022 15:00:00"
+  }
+]

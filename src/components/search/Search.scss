@@ -1,0 +1,25 @@
+.search-page-grid {
+  display: grid;
+  grid-template-columns: 270px 1fr;
+  grid-gap: 40px;
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.search-page-filters {
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+  display: grid;
+  grid-row-gap: 10px;
+  border-top: 1px solid #F3F4F5;
+  border-bottom: 1px solid #F3F4F5;
+  padding: 20px 0px;
+  height: 138px;
+}
+
+.real-estates-card-container {
+  display: grid;
+  grid-row-gap: 20px;
+}
